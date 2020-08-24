@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="SetEngine/SetEngine.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SetEngine/SetEngine.cs">
+    <Files>
+      <File FileName="SetEngine/SetEngine.cs" Line="149" Column="4" />
+      <File FileName="SetEngine/DecisionTree.cs" Line="10" Column="6" />
+      <File FileName="SetEngine/App.config" Line="5" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SetEngine PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
