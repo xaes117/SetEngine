@@ -1,1 +1,2 @@
 # SetEngine
+This program generates sets and writes the sets to the Azure blob. The Set Engine does not need to know the structure of the database in order to generates the sets but splits tables into columns and generates sets based on the column data. The Set Engine should be run automatically a weekly basis using the Windows Task Scheduler to ensure data on the blob is up to date. After every run of the Set Engine results are emailed to whomever the user desires.
